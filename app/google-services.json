@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36472099703",
+    "project_id": "inf2007-smartapptbookingapp",
+    "storage_bucket": "inf2007-smartapptbookingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36472099703:android:ab7b9a42ecbf32bf140772",
+        "android_client_info": {
+          "package_name": "com.example.inf2007_mad_j1847"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGiM2ZXnMVROKD7bEJdzOlJs9IbwBahY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
